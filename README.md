@@ -5,7 +5,8 @@
 2. ...
 
 ### My foreseen projects:
-1. I am in the planning  adventure farming sim game I have in the works. I am in the planning stage
+1. I plan to create a pixel farming sim based on the genetic modification of pigs with which they can produce goods they naturally could not (a pig that can lay eggs for example). I thought up this odd concept by combining my love for collecting pig-related things and farming sims that have a fantasy or sci-fi twist. So far I have written the basic code for movement, sprite placement, enemies, a death sequence, and image layering in Java. Some of the story would involve a struggling pig farmer in a futuristic world who to increase profit would mutate their pigs with the help of a mad scientist. A fun aspect of the game will be the mutation process sometimes going horribly wrong, creating monsters to fight for experience points.
+2. I would like to create an application similar to one I used a long time ago for worldbuilding. The app I take inspiration from is called Story Planner 2 and one aspect that I thought was very useful was creating templates with named textboxes, range sliders, etc to document information about your world that I could upload to the public. However, I dislike how the app is only available on Android, as I prefer to use my computer, and in my opinion, many features mostly with the UI need changing or added upon. The features I want to add allow dragging and dropping elements for easy organization, better visual design, and other user-friendly additions.
 
 <!--
 **CriglePig/CriglePig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
