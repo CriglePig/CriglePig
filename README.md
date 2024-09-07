@@ -3,7 +3,7 @@
 ### About Me
 🎓 I'm currently studying computer science at Wright State University
 
-### Current Projects:
+### Current Projects
 1. Oinkers – A pig farming sim with a twist
 
 I'm developing a farming simulator where genetically modified pigs produce unusual goods (like a feathery pig that lays eggs!). This concept combines my love for collecting pig-related items with my passion for farming sims that have a touch of fantasy or sci-fi. The game, coded in Java, currently features movement mechanics, sprite placement, enemies, and image layering. The story follows a pig farmer within a futuristic world who works with a mad scientist to mutate pigs, with some mutations going hilariously wrong leading to monster battles and experience points!
